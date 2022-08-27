@@ -1,0 +1,17 @@
+{
+  "name": "calculadoranode",
+  "version": "1.0.0",
+  "description": "calculadora padrao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Emanuel",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
